@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\bin\Debug\ORAKL_NIOP.exe.config
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\bin\Debug\ORAKL_NIOP.exe
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\bin\Debug\ORAKL_NIOP.pdb
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.Form1.resources
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.Properties.Resources.resources
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.exe
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.pdb
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.Form2.resources
+C:\Users\PC\source\repos\ORAKL_NIOP\ORAKL_NIOP\obj\Debug\ORAKL_NIOP.OtvaranjeSmjene.resources
